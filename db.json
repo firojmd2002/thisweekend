@@ -1,5 +1,6 @@
 
-[
+{
+  "restaurants": [
   {
     "id": 1,
     "cuisine": 1,
@@ -151,3 +152,4 @@
     "description": "Auténticas especialidades de carne y pescado en un sitio con un ambiente selecto."
   }
 ]
+}
